@@ -13,13 +13,6 @@
 - Open the Expo app and scan the QR code.
 - Start calculating!
 
-<h2>📸 Project Screenshots</h2>
-
-<div align="center">
-  <img src="./assets/Screenshots/Calculator_ss1.jpg" alt="Calculator Screenshot 1" width="200">
-  <img src="./assets/Screenshots/Calculator_ss2.jpg" alt="Calculator Screenshot 2" width="200">
-  <img src="./assets/Screenshots/Calculator_ss3.jpg" alt="Calculator Screenshot 3" width="200">
-</div>
 
 <h2>🛠️ Installation Steps</h2>
 
