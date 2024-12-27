@@ -23,7 +23,7 @@ npm install -g expo-cli
 
 <p>2. Clone this project</p>
 
-git clone https://github.com/zero7zero5/React-Native-Calculator-App.git
+git clone [https://github.com/zero7zero5/React-Native-Calculator-App.git](https://github.com/AnkurBombarde/Calculator-App.git)
 
 <p>3. To run this project</p>
 
