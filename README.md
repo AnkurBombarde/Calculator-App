@@ -6,18 +6,20 @@
 <h2>🚀 Experience the App</h2>
 
 <h2>Try the app on you smartphone right now!</h2>
-[Open the Calculator App on Expo]()
+[Open the Calculator App on Expo] (https://expo.dev/accounts/ankurbombarde/projects/calculator/builds/d5146cdc-154f-4ff6-a131-40c9b6869e65)
 
 <h3>How to Get Started:</h3>
 *   Install the Expo app from play or app store
 *   Open the Expo app and scan the QR code
 *   Start calculating!...
-<img src="https://qr.expo.dev/expo-go?owner=saber_basha&slug=calculator&releaseChannel=default&host=exp.host" alt="project-screenshot"  height="200/">
+
 <h2>Project Screenshots:</h2>
 <center>
-<img src="https://i.ibb.co/C1KtX3W/Screenshot-2023-01-28-20-09-10-611-com-saberbasha-calculator.jpg" alt="project-screenshot"  width="200/">
+<img src="D:\Project\Calculator\assets\Screenshots\Calculator ss1.jpg" alt="project-screenshot"  width="200/">
 
-<img src="https://i.ibb.co/rkwxDqw/Screenshot-2023-01-28-20-09-13-918-com-saberbasha-calculator.jpg" alt="project-screenshot"  width="200/">
+<img src="D:\Project\Calculator\assets\Screenshots\Calculator ss2.jpg" alt="project-screenshot"  width="200/">
+
+<img src="D:\Project\Calculator\assets\Screenshots\Calculator ss3.jpg" alt="project-screenshot"  height="200/">
 <center/>
 <h2>🛠️ Installation Steps:</h2>
 
@@ -47,4 +49,5 @@ Technologies used in the project:
 
 *   React Native
 *   Expo
+"# Calculator-App" 
 "# Calculator-App" 
