@@ -5,8 +5,8 @@
 
 <h2>🚀 Experience the App</h2>
 
-<h2>Try the app on you smartphone right now!</h2>
-[Open the Calculator App on Expo] (https://expo.dev/accounts/ankurbombarde/projects/calculator/builds/d5146cdc-154f-4ff6-a131-40c9b6869e65)
+<h3>Try the app on your smartphone right now!</h3>
+[Open the Calculator App on Expo](https://expo.dev/accounts/ankurbombarde/projects/calculator/builds/d5146cdc-154f-4ff6-a131-40c9b6869e65)
 
 <h3>How to Get Started:</h3>
 *   Install the Expo app from play or app store
@@ -15,11 +15,11 @@
 
 <h2>Project Screenshots:</h2>
 <center>
-<img src="D:\Project\Calculator\assets\Screenshots\Calculator ss1.jpg" alt="project-screenshot"  width="200/">
+<img src="./assets/Screenshots/Calculator_ss1.jpg" alt="project-screenshot"  width="200/">
 
-<img src="D:\Project\Calculator\assets\Screenshots\Calculator ss2.jpg" alt="project-screenshot"  width="200/">
+<img src="./assets/Screenshots/Calculator_ss2.jpg" alt="project-screenshot"  width="200/">
 
-<img src="D:\Project\Calculator\assets\Screenshots\Calculator ss3.jpg" alt="project-screenshot"  height="200/">
+<img src="./assets/Screenshots/Calculator_ss3.jpg" alt="project-screenshot"  height="200/">
 <center/>
 <h2>🛠️ Installation Steps:</h2>
 
@@ -32,7 +32,7 @@ npm i -g expo-cli
 <p>2. Clone this project</p>
 
 ```
-git clone zero7zero5/React-Native-Calculator-App
+git clone https://github.com/AnkurBombarde/Calculator-App.git
 ```
 
 <p>3. To run this project</p>
@@ -49,5 +49,6 @@ Technologies used in the project:
 
 *   React Native
 *   Expo
+"# Calculator-App" 
 "# Calculator-App" 
 "# Calculator-App" 
