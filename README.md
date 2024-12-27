@@ -19,15 +19,15 @@
 
 <p>1. Install Expo CLI</p>
 
-'''npm install -g expo-cli'''
+```npm install -g expo-cli```
 
 <p>2. Clone this project</p>
 
-git clone [https://github.com/AnkurBombarde/Calculator-App.git](https://github.com/AnkurBombarde/Calculator-App.git)
+```git clone [https://github.com/AnkurBombarde/Calculator-App.git](https://github.com/AnkurBombarde/Calculator-App.git)```
 
 <p>3. To run this project</p>
 
-npm start
+```npm start```
 
 <h2>💻 Technology Stack</h2>
 
