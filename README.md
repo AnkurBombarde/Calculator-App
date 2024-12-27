@@ -19,7 +19,7 @@
 
 <p>1. Install Expo CLI</p>
 
-npm install -g expo-cli
+'''npm install -g expo-cli'''
 
 <p>2. Clone this project</p>
 
