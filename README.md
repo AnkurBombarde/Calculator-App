@@ -19,12 +19,17 @@
 <p>1. Install Expo CLI</p>
 
 npm install -g expo-cli
-<p>2. Clone this project</p>
-git clone https://github.com/zero7zero5/React-Native-Calculator-App.git
-<p>3. To run this project</p>
-npm start
-<h2>💻 Technology Stack</h2>
-Technologies used in the project:
 
+<p>2. Clone this project</p>
+
+git clone https://github.com/zero7zero5/React-Native-Calculator-App.git
+
+<p>3. To run this project</p>
+
+npm start
+
+<h2>💻 Technology Stack</h2>
+
+Technologies used in the project:
 - React Native
 - Expo
