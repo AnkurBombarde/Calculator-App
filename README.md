@@ -1,16 +1,17 @@
-<h1 align="center" id="title">Calculator App Using React Native</h1>
+<h1 align="center" id="title">React Native Calculator App</h1>
 
-<p id="description">A Simple calculator mobile app made with React Native and Expo</p>
+<p id="description">A sleek and efficient calculator app designed with React Native and powered by Expo. Perform basic arithmetic operations with ease and style.
+ </p>
 
-<h2>🚀 Check out the project here!</h2>
+<h2>🚀 Experience the App</h2>
 
-[https://expo.dev/@saber\_basha/calculator](https://expo.dev/@saber_basha/calculator)
-<h2>🔍 Want to see the Result?</h2>
+<h2>Try the app on you smartphone right now!</h2>
+[Open the Calculator App on Expo]()
 
-Perform the following steps, trust me its very simple to see the result on your phone
-*   Install the expo app from play or app store
-*   Open the expo app and scan the below QR code
-*   And that's it !...
+<h3>How to Get Started:</h3>
+*   Install the Expo app from play or app store
+*   Open the Expo app and scan the QR code
+*   Start calculating!...
 <img src="https://qr.expo.dev/expo-go?owner=saber_basha&slug=calculator&releaseChannel=default&host=exp.host" alt="project-screenshot"  height="200/">
 <h2>Project Screenshots:</h2>
 <center>
@@ -40,9 +41,10 @@ npm start
 
   
   
-<h2>💻 Built with</h2>
+<h2>💻 Technology Stack</h2>
 
 Technologies used in the project:
 
 *   React Native
 *   Expo
+"# Calculator-App" 
