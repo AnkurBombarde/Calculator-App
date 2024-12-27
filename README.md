@@ -5,7 +5,7 @@
 <h2>🚀 Experience the App</h2>
 
 <h3>Try the app on your smartphone right now!</h3>
-<a href="[https://www.example.com](https://expo.dev/accounts/ankurbombarde/projects/calculator/builds/d5146cdc-154f-4ff6-a131-40c9b6869e65)">Open the Calculator App on Expo</a>
+<a href="https://expo.dev/accounts/ankurbombarde/projects/calculator/builds/d5146cdc-154f-4ff6-a131-40c9b6869e65">Open the Calculator App on Expo</a>
 
 
 <h3>How to Get Started:</h3>
